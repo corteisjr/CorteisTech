@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>CorteisTech</title>
+		<description>Bem vindo a CorteisTech</description>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Bem vindo</title>
+				<description>&lt;p&gt;Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis doloribus excepturi, ducimus odit, itaque tenetur aliquid ullam commodi nihil adipisci fuga numquam nisi quia iusto necessitatibus in aspernatur quod optio expedita officia esse aut. Doloribus quidem voluptatum blanditiis nostrum earum culpa, possimus maiores temporibus beatae ut quo necessitatibus accusantium sint facilis molestiae ipsa aperiam itaque reiciendis sed amet totam. Quia totam incidunt quam voluptatem sunt, laudantium perferendis, in rem assumenda recusandae sed obcaecati, excepturi debitis. Vitae ex debitis cumque obcaecati.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis doloribus excepturi, ducimus odit, itaque tenetur aliquid ullam commodi nihil adipisci fuga numquam nisi quia iusto necessitatibus in aspernatur quod optio expedita officia esse aut. Doloribus quidem voluptatum blanditiis nostrum earum culpa, possimus maiores temporibus beatae ut quo necessitatibus accusantium sint facilis molestiae ipsa aperiam itaque reiciendis sed amet totam. Quia totam incidunt quam voluptatem sunt, laudantium perferendis, in rem assumenda recusandae sed obcaecati, excepturi debitis. Vitae ex debitis cumque obcaecati.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis doloribus excepturi, ducimus odit, itaque tenetur aliquid ullam commodi nihil adipisci fuga numquam nisi quia iusto necessitatibus in aspernatur quod optio expedita officia esse aut. Doloribus quidem voluptatum blanditiis nostrum earum culpa, possimus maiores temporibus beatae ut quo necessitatibus accusantium sint facilis molestiae ipsa aperiam itaque reiciendis sed amet totam. Quia totam incidunt quam voluptatem sunt, laudantium perferendis, in rem assumenda recusandae sed obcaecati, excepturi debitis. Vitae ex debitis cumque obcaecati.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 07 Feb 2020 00:37:51 +0800</pubDate>
+				<link>/miss%C3%A3o/2020/02/07/Bem-Vindo.html</link>
+				<guid isPermaLink="true">/miss%C3%A3o/2020/02/07/Bem-Vindo.html</guid>
+			</item>
+		
+	</channel>
+</rss>
